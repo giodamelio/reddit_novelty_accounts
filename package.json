@@ -1,0 +1,16 @@
+{
+  "name": "reddit_novelty_accounts",
+  "version": "0.1.0",
+  "description": "Shows the posts of some reddit novelty accounts",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giodamelio/reddit_novelty_accounts.git"
+  },
+  "author": "Gio d'Amelio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giodamelio/reddit_novelty_accounts/issues"
+  },
+  "homepage": "https://github.com/giodamelio/reddit_novelty_accounts#readme"
+}
